@@ -262,4 +262,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais de
 
 ## 👤 Autor
 
-Feito por **SEU NOME** — [GitHub](https://github.com/SEU_USUARIO)
+Feito por **Matheus Santos** — [GitHub](https://github.com/dsxnt47)
